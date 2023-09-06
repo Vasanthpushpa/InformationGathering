@@ -1,5 +1,5 @@
 # InformationGathering
-Information Gathering Techiques
+Information Gathering Techniques
 
 # To perform information gathering techniques
 
