@@ -127,10 +127,5 @@ sudo traceroute  www.saveetha.ac.in
 ![image](https://github.com/Vasanthpushpa/InformationGathering/assets/119291100/5a5fda7a-79f4-47d7-ac11-25c59a6987a0)
 
 
-
-
-
-
-
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
